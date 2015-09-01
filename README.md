@@ -12,6 +12,8 @@
 
 ### Arch Linux
 
+### i3
+
 ### tox/qtox
 
 ### make
