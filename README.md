@@ -1,6 +1,6 @@
 # List of tools that I use daily
 
-## Languages
+## Programming Languages
 
 ### Python
 
