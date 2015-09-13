@@ -1,4 +1,4 @@
-# List of tools that I use daily
+# List of tools that I use
 
 ## Programming Languages
 
@@ -23,6 +23,10 @@
 ### ranger
 
 ### git
+
+### testdisk
+
+### simple-scan
 
 ## Web Services
 
