@@ -22,6 +22,8 @@
 
 ### ranger
 
+### fasd
+
 ### git
 
 ### testdisk
